@@ -1,2 +1,2 @@
 # TODOs-List
-## this is created by using HTML,JS,Bootstrap,CSS
+## this is created by using JS,Bootstrap,CSS,HTML
